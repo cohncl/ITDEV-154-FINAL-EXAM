@@ -1,0 +1,11 @@
+C:\Users\Neil Michaels\source\repos\PowerList\bin\Debug\netcoreapp3.1\PowerList.exe
+C:\Users\Neil Michaels\source\repos\PowerList\bin\Debug\netcoreapp3.1\PowerList.deps.json
+C:\Users\Neil Michaels\source\repos\PowerList\bin\Debug\netcoreapp3.1\PowerList.runtimeconfig.json
+C:\Users\Neil Michaels\source\repos\PowerList\bin\Debug\netcoreapp3.1\PowerList.runtimeconfig.dev.json
+C:\Users\Neil Michaels\source\repos\PowerList\bin\Debug\netcoreapp3.1\PowerList.dll
+C:\Users\Neil Michaels\source\repos\PowerList\bin\Debug\netcoreapp3.1\PowerList.pdb
+C:\Users\Neil Michaels\source\repos\PowerList\obj\Debug\netcoreapp3.1\PowerList.csprojAssemblyReference.cache
+C:\Users\Neil Michaels\source\repos\PowerList\obj\Debug\netcoreapp3.1\PowerList.AssemblyInfoInputs.cache
+C:\Users\Neil Michaels\source\repos\PowerList\obj\Debug\netcoreapp3.1\PowerList.AssemblyInfo.cs
+C:\Users\Neil Michaels\source\repos\PowerList\obj\Debug\netcoreapp3.1\PowerList.dll
+C:\Users\Neil Michaels\source\repos\PowerList\obj\Debug\netcoreapp3.1\PowerList.pdb
